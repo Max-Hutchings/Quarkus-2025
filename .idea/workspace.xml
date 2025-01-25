@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4acef5c7-c63e-422d-8a47-a5fb3f1ece65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mutiny_testing" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutiny_testing" beforeDir="false" afterPath="$PROJECT_DIR$/mutiny_testing" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutiny_testing/.github/workflows/ci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutiny_testing/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mutiny_testing/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mutiny_testing/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mutiny_testing/src/main/java/com/max/test/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/mutiny_testing/src/main/java/com/max/test/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mutiny_testing/src/main/java/com/max/test/GreetingResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/mutiny_testing/src/main/java/com/max/test/GreetingResource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mutiny_testing/src/test/java/com/max/test/GreetingResourceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mutiny_testing/src/test/java/com/max/test/GreetingResourceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737809130196</updated>
-      <workItem from="1737809131125" duration="735000" />
+      <workItem from="1737809131125" duration="1071000" />
     </task>
     <servers />
   </component>
