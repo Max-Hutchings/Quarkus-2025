@@ -11,9 +11,8 @@
   <url>http://maven.apache.org</url>
 
   <modules>
-    <module>
-     mutiny_testing
-    </module>
+    <module>mutiny_testing</module>
+    <module>car_sales</module>
   </modules>
 
   <properties>
